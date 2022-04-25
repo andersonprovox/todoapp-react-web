@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Projeto de App de lista de tarefas com React
+Projeto permite a inserção, atualização e exclusão de tarefas em uma lista para o mesmo fim.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,6 +41,15 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+### `npm run server`
+
+Vai executar o servidor do json-server para simular um banco de dados em JSON.
+
+## Observações do projeto
+Projeto usando ícones do React, usando também o json-server como servidor de banco de dados armazenar os dados manipulados na aplicação.
+
+Para a conexão com a API foi feito com o fetch API função nativa do JavaScript.
 
 ## Learn More
 
